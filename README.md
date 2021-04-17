@@ -11,5 +11,3 @@ Voice Made from FiveM Mumble Voip
 - Required: onesync
 
 - Inspired from Frazzle's Mumble-Voip https://github.com/FrazzIe/mumble-voip-fivem
-
-# Made by Cadburry#7547
