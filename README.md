@@ -1,6 +1,12 @@
 # cc-voice
 Voice Made from FiveM Mumble Voip
 
+Fixed:- 
+- Voice Breaking
+- on/off issue
+- high radio volume
+- radio click on/off
+
 /radio_volume [0-100] -- To Increase/Decrease Radio Volume
 
 /radio_click -- To turn on/off radio chatter sound
